@@ -1,0 +1,6 @@
+{
+  "name": "Ficha de Treino Minimalista",
+  "description": "Ficha de treino minimalista e direta ao ponto para Terça (Treino A), Quarta (Core/Corrida) e Quinta (Treino B) com registro de cargas, checklist e cronômetro de pausa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
